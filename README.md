@@ -1,5 +1,9 @@
 # Zip prefix helper
 
+
+update: [zip -F can fix this problem, don't need this tool anymore...](https://github.com/perfectblue/ctf-writeups/tree/master/2021/0ctf-2021-quals/onelinephp)
+
+
 Easy tool to craft zip file with your custom prefix.
 
 ## Intro
